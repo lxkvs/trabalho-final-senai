@@ -1,0 +1,42 @@
+[
+    {
+        "Titulo": "Fluminense estreia patch de campeão da Libertadores contra São Paulo",
+        "Autor": "Gustavo Garcia e Marcello Neves",
+        "Assunto": "futebol",
+        "Premissa": "Futebol Carioca",
+        "Conteudo": ["O uniforme do Fluminense terá uma novidade para a partida contra o São Paulo, nesta quarta-feira, às 21h30 (de Brasília), no Maracanã, pela 32ª rodada do Campeonato Brasileiro. Após conquistar a Conmebol Libertadores, o Tricolor irá estrear o patch de campeão diante dos paulistas. Posteriormente, o clube publicou nas redes sociais uma foto da camisa com o símbolo.","O patch ficará no peito do uniforme, entre o escudo do Fluminense e a Umbro, fornecedora de material esportivo. Ele terá cor dourado com letras brancas, trazendo a palavra Campeão na parte de cima. O uso do patch é uma tradição entre os clubes que conquistam a Libertadores. Além do patch, a partida terá mais novidades."," As diretorias de Fluminense e São Paulo conversam para uma troca da faixas, já que os cariocas conquistaram a Libertadores, e os paulistas, a Copa do Brasil, nesta temporada. Fora dela, a torcida tricolor irá festejar com o material vetado na final da Conmebol Libertadores. Fluminense e São Paulo se enfrentam pela 32ª rodada do Brasileirão. A partida está atrasada porque anteriormente foi marcada para o mesmo dia da final da Libertadores. Com a presença dos cariocas na decisão, o duelo irá acontecer nesta quarta-feira, às 21h30 (de Brasília), no Maracanã."],
+        "id": "000",
+        "img": "/imagens/flu.png",
+        "imgartigo": "/imagens/flu.png"
+    },
+    {
+        "Titulo": "Jornal elege Flamengo e Palmeiras entre melhores cantos de torcida do mundo",
+        "Autor": "João Pedro",
+        "Premissa": "time do flamengo",
+        "Assunto": "futebol",
+        "Conteudo": ["O jornal Marca elegeu os melhores cantos de torcida em todo o mundo. A lista inclui dois brasileiros: Flamengo e Palmeiras. Ao todo, foram 14 músicas escolhidas pelo periódico espanhol, de times de diversos continentes. "," No caso do Flamengo, a música escolhida foi Dezembro de 81, que exalta a vitória sobre o Liverpool por 3 a 0 pelo Mundial de 1981. No caso do Palmeiras, a canção foi Eu canto, sou Palmeiras até morrer"],
+        "id": "003",
+        "img": "/imagens/fla.webp",
+        "imgartigo": "/imagens/fla.webp"
+    },
+    {
+        "Titulo": "Como o estilo de Tiago Nunes se encaixa com o Botafogo?",
+        "Autor": "Roberto Santos",
+        "Premissa": "botafogo",
+        "Assunto": "futebol",
+        "Conteudo": ["A chegada de Tiago Nunes ao Botafogo, que será apresentado na tarde desta terça-feira, deu novo ânimo e esperança ao torcedor alvinegro na briga pelo título do Campeonato Brasileiro. Entre o trabalho de muito sucesso no Athletico-PR e o último pelo Sporting Cristal, Tiago Nunes mostrou diferentes facetas de seu estilo como treinador. "," Chegando em meio a temporada e com um elenco que não foi montado por ele, o treinador terá a missão de instaurar uma ideia de jogo em 10 dias para tentar uma arrancada nas últimas cinco partidas e ficar com a taça. Tiago Nunes pensa o futebol um pouco parecido com o Luís Castro. Gosta do seu time ofensivo, agressivo e vertical, construindo desde a defesa. Com saída de bola sustentada no volante fazendo a saída de 3 com os zagueiros. Dessa forma, os laterais têm liberdade para avançar ao ataque."],
+        "id": "002",
+        "img": "/imagens/bota.webp",
+        "imgartigo": "/imagens/bota.webp"
+    },
+    {
+        "Titulo": "Veja as chances de o Vasco se classificar para a Sul-Americana de 2024",
+        "Autor": "Felipe Jorge",
+        "Premissa": "vasco",
+        "Assunto": "futebol",
+        "Conteudo": ["Brigando contra o rebaixamento na Série A do Brasileirão, o Vasco tem como objetivo secundário a classificação para a Sul-Americana de 2024. A cinco rodadas do fim do campeonato, o torcedor pode sonhar com a participação do clube na competição continental. <br> Nesta quarta-feira, às 19h, o Vasco vai a Belo Horizonte enfrentar o Cruzeiro, em duelo direto contra o rebaixamento - as duas equipes têm 40 pontos e são as primeiras fora do Z-4. O Brasil tem seis vagas na Sul-Americana. "," Para se classificar, o Vasco precisa terminar o Campeonato Brasileiro pelo menos na 14ª colocação. Os 15º e 16º colocados fogem do rebaixamento, mas não garantem vaga nos torneios continentais de 2024. A última vez em que o Vasco participou da competição foi 2020, após terminar o Brasileirão de 2019 em 12º lugar, com 49 pontos. Na ocasião, o time chegou até as oitavas de final da Sul-Americana, quando foi eliminado pelo Defensa y Justicia, da Argentina."],
+        "id": "004",
+        "img": "/imagens/basco.webp",
+        "imgartigo": "/imagens/basco.webp"
+    }
+]
